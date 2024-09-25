@@ -1,0 +1,24 @@
+p,1,La ballena,117,Drama,4
+p,2,El club de la pelea,139,Accion,5
+p,3,Iron Man,126,Accion,5
+p,4,El conjuro,112,Terror,3
+p,5,Rivales,131,Drama,4
+p,6,Titanic,194,Drama,5
+p,7,Escuadron Suicida,123,Accion,3
+p,8,Halloween,91,Terror,4
+p,9,El aro,115,Terror,3
+
+s,10,Club de Cuervos,45,Comedia,4
+c,10,1,Se Un Capitan,1,4
+c,10,2,Hacemos Jabon,1,3
+c,10,3,Descenso,2,5
+
+s,11,Familia Moderna,250,Comedia,5
+c,11,1,Piloto,1,4
+c,11,2,El beso,2,5
+c,11,3,Phil en la cuerda floja,3,3
+
+s,12,Padre de Familia,424,Comedia,4
+c,12,1,El desempleado,1,3
+c,12,2,Brian en Hollywood,3,5
+c,12,3,Sueños con Jesus,7,4
